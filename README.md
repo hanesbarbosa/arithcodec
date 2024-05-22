@@ -1,0 +1,2 @@
+# arithcodec
+Arithmetic Coding compression.
