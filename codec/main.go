@@ -1,4 +1,4 @@
-// Package bramah-codec implements a library for Arithmetic Coding.
+// This Package implements a library for Arithmetic Coding.
 // It is based on the C implementation by Witten et al. in the paper
 // "ARITHMETIC CODING FOR DATA COMPRESSION" from 1987.
 
